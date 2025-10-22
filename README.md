@@ -40,15 +40,16 @@ To run and explore the notebooks:
 ```
 2.Create a virtual environment (optional but recommended):
 ```bash
-  python3 -m venv venv
-  source venv/bin/activate   # On Windows: venv\Scripts\activate
+python3 -m venv venv
+source venv/bin/activate   # On Windows: venv\Scripts\activate
 ```
 3.Install dependencies:
 
 ```bash
 pip install -r requirements.txt
-If there’s no requirements.txt yet, you can install typical dependencies such as pandas, numpy, scikit-learn, xgboost, matplotlib, seaborn etc.
 ```
+If there’s no requirements.txt yet, you can install typical dependencies such as pandas, numpy, scikit-learn, xgboost, matplotlib, seaborn etc.
+
 4.Launch Jupyter Notebook:
 
 ```bash
