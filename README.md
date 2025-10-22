@@ -32,11 +32,10 @@ The project folder contains the following notebooks:
 
 ## Getting Started  
 To run and explore the notebooks:
-
 1. Clone the repository:  
 ```bash
-   git clone https://github.com/ShivamMitra/Boosting-Models.git
-   cd Boosting-Models
+git clone https://github.com/ShivamMitra/Boosting-Models.git
+cd Boosting-Models
 ```
 2.Create a virtual environment (optional but recommended):
 ```bash
