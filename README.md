@@ -34,11 +34,12 @@ The project folder contains the following notebooks:
 To run and explore the notebooks:
 
 1. Clone the repository:  
-   ```bash
+```bash
    git clone https://github.com/ShivamMitra/Boosting-Models.git
    cd Boosting-Models
+```
 2.Create a virtual environment (optional but recommended):
-  ```bash
+```bash
   python3 -m venv venv
   source venv/bin/activate   # On Windows: venv\Scripts\activate
 ```
